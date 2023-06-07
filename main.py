@@ -1,5 +1,7 @@
 import functions_framework
 
+# raise Exception("Error")
+
 @functions_framework.http
 def service(request):
-    return "OK", 201
+    return "OK", 200

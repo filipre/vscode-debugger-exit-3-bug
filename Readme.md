@@ -9,6 +9,13 @@ pip install -r requirements.txt
 # Change one line in main.py and observe system exit 3
 ```
 
+## Trouble Shooting
+
+- Restarting the service itself does not solve the issue ❌
+- Restarting VS Code does not solve the issue ❌
+- Restarting the computer does not solve the issue ❌
+- Disabeling "Uncaught Exceptions" and enabling "User Uncaught Exceptions" works ✅
+
 ## Service
 
 ```
